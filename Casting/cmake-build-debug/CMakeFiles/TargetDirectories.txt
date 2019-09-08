@@ -1,0 +1,3 @@
+C:/Users/matth/CLionProjects/CIS-161/Casting/cmake-build-debug/CMakeFiles/Casting.dir
+C:/Users/matth/CLionProjects/CIS-161/Casting/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/CLionProjects/CIS-161/Casting/cmake-build-debug/CMakeFiles/rebuild_cache.dir

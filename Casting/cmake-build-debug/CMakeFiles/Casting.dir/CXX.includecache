@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matth/CLionProjects/CIS-161/Casting/Casting.cpp
+limits
+-
+cstddef
+-
+iostream
+-
+iomanip
+-
+
