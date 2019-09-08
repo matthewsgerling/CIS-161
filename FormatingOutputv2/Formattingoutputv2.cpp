@@ -12,17 +12,24 @@ using namespace std;
 
 
 int main(){
-    double total, tax = 0.05, price = 19.97, shipping = 2.34;
-    int cartWeight = 210, boxWeight = 17, boxNumb;
+    double total, tax, price = 19.97, shipping = 2.34, shippingCost;
+    int cartWeight = 210, boxWeight = 17, fullWeight, boxNumb;
 
-    cout << "Enter Number of boxes" << endl;
-    cin >> boxNumb;
+    cout << "Enter the weight of the cart :" << endl;
+    cin >> fullWeight;
+
+    double tempWeight = fullWeight - cartWeight;
+    boxNumb = static_cast<int>(tempWeight / boxWeight);
 
     price = price * boxNumb;
-    tax = price *.05;
-    total = static_cast<int>(price + tax);
-    total << setprecision(2) << endl;
-    cout << "Total Price: " << total << endl;
+    shippingCost = shipping * boxNumb;
+    tax = price * 0.05;
+    total = static_cast<double>(price + tax + shippingCost);
 
-
+    cout << "-----------------------------------------------" << endl;
+    cout << "Cost of " << boxNumb << " Units: $" << setprecision(2) << fixed << price << endl;
+    cout << "Sales tax (5%): $" << setprecision(2) << fixed << tax << endl;
+    cout << "Shipping Cost: $" << setprecision(2) << fixed << shippingCost << endl;
+    cout << "Total Price: $" << setprecision(2) << fixed << total << endl;
+    cout << "-----------------------------------------------" << endl;
 }
