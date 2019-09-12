@@ -6,7 +6,7 @@
 #define CIS_161_IFASSIGNMENT_H
 
 
-class IfAssignment {
+class IfAssignmentGerling {
 
 };
 
