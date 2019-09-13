@@ -9,10 +9,8 @@ using namespace std;
 int main() {
     int score;
     cout << "Enter your score:" << endl;
-    cin >> score; // Must must enter true or false?
+    cin >> score;
     if (score >= 7)
         cout << "The test score of " << score << " is passing." << endl;
-    else
-        cout << "The test score of " << score << " is not passing." << endl;
     return 0;
 }

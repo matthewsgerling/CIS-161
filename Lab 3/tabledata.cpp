@@ -1,14 +1,13 @@
 // This program will bring in two prices and two quantities of items
 // from the keyboard and print those numbers in a formatted chart.
 
-//PLACE YOUR NAME HERE
+//Matt Gerling
 
 #include <iostream>
-#include	// Fill in the code to bring in the library for
-			// formatted output.
+#include <iomanip>
 using namespace std;
 
-int main()
+/*int main()
 {
 	float price1, price2;		// The price of 2 items
 	int	quantity1, quantity2;	// The quantity of 2 items
@@ -34,3 +33,4 @@ int main()
 
 	return 0;
 }
+ */
