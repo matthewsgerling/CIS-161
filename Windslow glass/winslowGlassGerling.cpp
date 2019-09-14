@@ -1,6 +1,7 @@
 //
 // Created by matth on 9/14/2019.
-//
+// Matthew Gerling
+//msgerling@dmacc.edu
 #include <iostream>
 using namespace std;
 
