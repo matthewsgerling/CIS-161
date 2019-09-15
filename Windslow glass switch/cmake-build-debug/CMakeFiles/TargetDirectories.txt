@@ -1,0 +1,3 @@
+C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/cmake-build-debug/CMakeFiles/Windslow_glass.dir
+C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/cmake-build-debug/CMakeFiles/rebuild_cache.dir
