@@ -4,4 +4,4 @@ project(Windslow_glass)
 set(CMAKE_CXX_STANDARD 14)
 
 add_executable(Windslow_glass
-        winslowGlassGerling.cpp)
+        winslowGlassGerling2.cpp)
