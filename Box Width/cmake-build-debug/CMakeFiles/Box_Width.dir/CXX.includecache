@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matth/CLionProjects/CIS-161/Box Width/boxWidth.cpp
+boxWidth.h
+C:/Users/matth/CLionProjects/CIS-161/Box Width/boxWidth.h
+iostream
+-
+
+C:/Users/matth/CLionProjects/CIS-161/Box Width/boxWidth.h
+

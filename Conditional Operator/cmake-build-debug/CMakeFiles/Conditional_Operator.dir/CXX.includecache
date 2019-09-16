@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/ConditionalOperator.cpp
+ConditionalOperator.h
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/ConditionalOperator.h
+iostream
+-
+
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/ConditionalOperator.h
+

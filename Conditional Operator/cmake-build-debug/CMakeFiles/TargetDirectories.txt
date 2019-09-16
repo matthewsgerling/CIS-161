@@ -1,0 +1,3 @@
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/cmake-build-debug/CMakeFiles/Conditional_Operator.dir
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/matth/CLionProjects/CIS-161/Conditional Operator/cmake-build-debug/CMakeFiles/rebuild_cache.dir

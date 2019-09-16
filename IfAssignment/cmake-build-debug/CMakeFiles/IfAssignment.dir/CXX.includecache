@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/matth/CLionProjects/CIS-161/IfAssignment/IfAssignment.cpp
+IfAssignment.h
+C:/Users/matth/CLionProjects/CIS-161/IfAssignment/IfAssignment.h
+iostream
+-
+
+C:/Users/matth/CLionProjects/CIS-161/IfAssignment/IfAssignment.h
+
