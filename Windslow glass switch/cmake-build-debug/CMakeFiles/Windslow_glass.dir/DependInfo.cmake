@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/winslowGlassGerling.cpp" "C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/cmake-build-debug/CMakeFiles/Windslow_glass.dir/winslowGlassGerling.cpp.obj"
+  "C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/winslowGlassGerling2.cpp" "C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/cmake-build-debug/CMakeFiles/Windslow_glass.dir/winslowGlassGerling2.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

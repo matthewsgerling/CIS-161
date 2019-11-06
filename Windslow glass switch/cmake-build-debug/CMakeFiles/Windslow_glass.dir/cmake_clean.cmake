@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Windslow_glass.dir/winslowGlassGerling.cpp.obj"
-  "Windslow_glass.pdb"
+  "CMakeFiles/Windslow_glass.dir/winslowGlassGerling2.cpp.obj"
   "Windslow_glass.exe"
   "Windslow_glass.exe.manifest"
+  "Windslow_glass.pdb"
   "libWindslow_glass.dll.a"
 )
 

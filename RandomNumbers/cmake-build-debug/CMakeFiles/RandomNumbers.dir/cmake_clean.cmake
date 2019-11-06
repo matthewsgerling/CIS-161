@@ -1,8 +1,8 @@
 file(REMOVE_RECURSE
   "CMakeFiles/RandomNumbers.dir/RandomGerling.cpp.obj"
-  "RandomNumbers.pdb"
   "RandomNumbers.exe"
   "RandomNumbers.exe.manifest"
+  "RandomNumbers.pdb"
   "libRandomNumbers.dll.a"
 )
 

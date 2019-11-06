@@ -82,7 +82,7 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/winslowGlassGerling.cpp">
+		<Unit filename="C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/winslowGlassGerling2.cpp">
 			<Option target="Windslow_glass"/>
 		</Unit>
 		<Unit filename="C:/Users/matth/CLionProjects/CIS-161/Windslow glass switch/CMakeLists.txt">
